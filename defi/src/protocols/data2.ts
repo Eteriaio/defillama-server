@@ -30021,7 +30021,7 @@ const data2: Protocol[] = [
     module: "eteria/index.js",
     twitter: "eteriaio",
     listedAt: 1757997501,
-    rugged: true,
+    rugged: false,
   },
 ];
 export default data2;
